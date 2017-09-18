@@ -1,3 +1,4 @@
-export function say() {
-  console.log("hello world")
+// @flow
+export function say(): string {
+  return "hello world"
 }

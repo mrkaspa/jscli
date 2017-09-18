@@ -1,3 +1,3 @@
 import { say } from "./demo"
 
-say()
+console.log(say())
